@@ -1,16 +1,40 @@
-## Hi there 👋
+# Les basiques du markdown (titre 1)
 
-<!--
-**kenzaatt/kenzaatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## titre 2
 
-Here are some ideas to get you started:
+### titre 3
+Ceci est un message (texte)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gras : **mot**
+
+italique : *mot*
+
+Liste : 
+- item
+- item 2
+  - item 2.1
+  - item 2.2
+
+    
+1. Item
+    1. item
+
+### Todo
+-[X] Action 1
+- []Action 2
+
+### Code
+```c
+int main(){
+    return 0; 
+};
+```
+
+### Images
+
+![fok](https://picsum.photos/id/1084/536/354?grayscale)
+
+### equation 
+
+$$ x^n +y^n = z^n $$
+
