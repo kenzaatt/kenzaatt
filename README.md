@@ -21,7 +21,7 @@ Liste :
 
 ### Todo
 -[X] Action 1
-- []Action 2
+-[ ] Action 2
 
 ### Code
 ```c
